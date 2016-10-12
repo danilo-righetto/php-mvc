@@ -16,6 +16,15 @@ Um simples ambiente de desenvolvimento PHP utilizando:
 ## Variaveis de ambiente
 Na variavel "Path" adicione o caminho onde está o arquivo "php.exe"
 
+##Composer
+Lembre de instalar o COMPOSER no seu computador através de: `https://getcomposer.org/download/`
+
+Na pasta onde está o seu arquivo "composer.json" vamos executar os comandos:
+* php -r "readfile('https://getcomposer.org/installer');" | php
+* php composer-setup.php
+* php composer.phar install
+
+
 ## Autor
 Danilo Righetto - Web Developer
 
