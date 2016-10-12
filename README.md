@@ -8,7 +8,7 @@ Um simples ambiente de desenvolvimento PHP utilizando:
 * PHP
 
 ## Utilização
-* clone este repositório: `https://github.com/righetto93/php-oo-advanced`
+* clone este repositório: `https://github.com/danilo-righetto/php-mvc`
 * Dentro da pasta onde encontra-se o arquivo index.html
 * Use o comando: php-S localhost:8080
 * acesse no seu navegador a página: http://numero-do-ip:8080
